@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.duoback.co.kr	TRUE	.firstmall.kr	FALSE	1999999999	mobileapp	N
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	board_hit_notice	%5B69952%5D
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	shopReferer	http%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	refererDomain	connect.facebook.net
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	marketplace	etc
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	1:1651_0	1:1651_0_to_1:2a0c
+gi.esmplus.com	TRUE	/	FALSE	1999999999	xid	xxxxxxxxd897cd361c37e134ba40a9434cf9f7fdb81eda5191a07394b995dd73c1b6e493
+.esmplus.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	today_view	a%3A4%3A%7Bi%3A0%3Bi%3A413%3Bi%3A1%3Bi%3A443%3Bi%3A2%3Bi%3A407%3Bi%3A3%3Bi%3A429%3B%7D
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	duobackcokrvisitorInfo	a%3A2%3A%7Bs%3A4%3A%22date%22%3Bs%3A10%3A%222022-02-07%22%3Bs%3A7%3A%22referer%22%3Bs%3A47%3A%22http%3A%2F%2Fwww.duoback.co.kr%2Fboard%2F%3Fid%3Dnotice%26page%3D%22%3B%7D
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	duobackcokr_firstmall	da4420646900fbdca5e112a4f7ee059f75c38cd7
+.duoback.co.kr	TRUE	/	FALSE	1999999999	samesite	None
+www.duoback.co.kr	TRUE	/	FALSE	1999999999	fammercemode	deleted
+.duoback.co.kr	TRUE	/	FALSE	1999999999	duobackcokr_firstmall	fb0a83415a464efbaf3a08ecd4ad7e70a01f4de0
+

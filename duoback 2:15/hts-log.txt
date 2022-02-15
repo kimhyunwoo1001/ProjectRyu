@@ -1,0 +1,285 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 06 Feb 2022 21:40:21 at ckfdma:uvn2875@https://www.duoback.co.kr/duoback https://www.duoback.co.kr/duoback ckfdma:uvn2875@https://www.duoback.co.kr/duoback +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" ckfdma:uvn2875@https://www.duoback.co.kr/duoback https://www.duoback.co.kr/duoback ckfdma:uvn2875@https://www.duoback.co.kr/duoback -O1 "D:\gowoon\duoback" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:44:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.duoback.co.kr/duoback)
+21:50:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206213825
+21:53:58	Warning: 	Temporary Redirect for https://www.duoback.co.kr/
+21:53:58	Warning: 	File has moved from https://www.duoback.co.kr/ to https://www.duoback.co.kr/duoback
+21:57:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206213927
+21:57:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206213928
+21:57:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206213932
+21:58:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 2135821 got 2015285): www.duoback.co.kr/upload/20160329_01002302581652.JPG
+21:58:54	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/ellipsis.xml (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/lib.css)
+21:58:59	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/images/design/cpn_bg.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/common.css?v1.0)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/images/design/coupon_back.png (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/common.css?v1.0)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/images/o2o_img/arrow_prev.png (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/common.css?v1.0)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/images/o2o_img/arrow_next.png (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/common.css?v1.0)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/images/design/tbl_th_bg.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/board.css)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/images/common/th_bg_popup.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/board.css)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/images/design/comment_box.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/board.css)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/images/common/arrow.png (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/css/board.css)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/c (from https://connect.facebook.net/en_US/fbevents.js)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/b (from https://connect.facebook.net/en_US/fbevents.js)
+21:59:00	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:59:01	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/event/20170201/20170201.css (from https://www.duoback.co.kr/promotion/event_detail?parent=770)
+21:59:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214117
+21:59:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214136
+21:59:19	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/index.html (from https://www.duoback.co.kr/service/cs?designMode=1)
+21:59:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214140
+21:59:51	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214138
+22:00:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214330
+22:03:44	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214433
+22:03:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214446
+22:04:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.duoback.co.kr/data/duoback/ (from https://www.duoback.co.kr/goods/view?no=3147)
+22:04:48	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214518
+22:05:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214534
+22:05:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214601
+22:05:51	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214607
+22:06:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214617
+22:07:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214619
+22:08:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214727
+22:09:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214729
+22:09:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214730
+22:10:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214747
+22:12:00	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214749
+22:12:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214750
+22:16:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 4395390 got 2506752): gi.esmplus.com/bros0409/손목받침대/201125_바디랩스_손목받침대_상세페이지-full_수정.jpg
+22:17:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 6827908 got 3596288): gi.esmplus.com/bros0409/HANDS3_PRO/190904_HANDS3-Pro.jpg
+22:17:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 9762061 got 2834432): gi.esmplus.com/bros0409/2020NEW_살균기상세/살균기상세_gif 없음.jpg
+22:18:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214753
+22:18:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214803
+22:18:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214804
+22:19:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214806
+22:19:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214816
+22:22:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214827
+22:23:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214833
+22:27:55	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214845
+22:28:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214851
+22:29:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214913
+22:29:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214933
+22:29:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214938
+22:29:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206214950
+22:30:34	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/chrome-extension://hhojmcideegachlhfgfdhailpfhgknjm/web_accessible_resources/index.js (from https://www.duoback.co.kr/board/?id=notice)
+22:31:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215052
+22:31:08	Warning: 	Retry after error -4 (Incorrect length (2015285 Bytes, 2135821 expected)) at link www.duoback.co.kr/upload/20160329_01002302581652.JPG (from https://www.duoback.co.kr/board/?id=irboard)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=579 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=575 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=576 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=571 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=566 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=568 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=496 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=487 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=485 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=482 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=476 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/goods/view?no=477 (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/board/?id=affiliate (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/board/write?id=affiliate (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/board/write?id=affiliate&seq= (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/board/write?id=affiliate&reply=y&seq= (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:31:22	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/board/board/permcheck?id=affiliate&returnurl= (from https://www.duoback.co.kr/board/write/?id=affiliate)
+22:32:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215649
+22:32:33	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215657
+22:32:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215658
+22:33:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215731
+22:34:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215749
+22:35:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215829
+22:35:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215837
+22:36:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215854
+22:37:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215919
+22:37:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206215949
+22:43:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220040
+22:46:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220042
+22:57:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220045
+23:11:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220117
+23:11:34	Warning: 	Found for https://www.duoback.co.kr/data/duoback/
+23:11:34	Warning: 	File has moved from https://www.duoback.co.kr/data/duoback/ to https://errdoc.firstmall.kr/403.html
+23:21:19	Warning: 	Retry after error -4 (Incorrect length (3596288 Bytes, 6827908 expected)) at link gi.esmplus.com/bros0409/HANDS3_PRO/190904_HANDS3-Pro.jpg (from https://www.duoback.co.kr/goods/view_contents?no=377&zoom=1)
+23:26:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 7617284 got 2260992): gi.esmplus.com/bros0409/탭플러스_NEW/20200305_TAP-PLUS_상세페이지_2.gif
+23:27:00	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220559
+23:29:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 6827908 got 6701056): gi.esmplus.com/bros0409/HANDS3_PRO/190904_HANDS3-Pro.jpg
+23:46:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220632
+23:55:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 6152165 got 2342912): ai.esmplus.com/ablue0/ablue/curble_wider/detail_04.gif
+23:55:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 4497536 got 2383872): ai.esmplus.com/ablue0/ablue/curble_wider/detail_06.gif
+23:57:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206220653
+00:01:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 6590547 got 2342912): ai.esmplus.com/ablue0/ablue/curble_wider/detail_13.gif
+00:05:50	Warning: 	Retry after error -4 (Incorrect length (2506752 Bytes, 4395390 expected)) at link gi.esmplus.com/bros0409/손목받침대/201125_바디랩스_손목받침대_상세페이지-full_수정.jpg (from https://www.duoback.co.kr/goods/view_contents?no=376&zoom=1)
+00:07:39	Warning: 	Retry after error -4 (Incorrect length (2834432 Bytes, 9762061 expected)) at link gi.esmplus.com/bros0409/2020NEW_살균기상세/살균기상세_gif 없음.jpg (from https://www.duoback.co.kr/goods/view_contents?no=375&zoom=1)
+00:13:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 9762061 got 5054464): gi.esmplus.com/bros0409/2020NEW_살균기상세/살균기상세_gif 없음.jpg
+00:18:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 2899474 got 2424832): gi.esmplus.com/bros0409/간소 돌돌이/1_03.png
+00:20:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 2417553 got 2383872): gi.esmplus.com/bros0409/간소 돌돌이/2_02.png
+01:24:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206222716
+01:25:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206222720
+01:25:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206222721
+01:25:56	Error: 	"Not Found" (404) at link postfiles11.naver.net/20140527_106/duoback_a_1401164582218Iels3_JPEG/(%C1%D6)%B5%F0%BA%F1%C4%C9%C0%CC_IR_guide_book(140527)-2.jpg?type=w2 (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+01:25:56	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/company/notice/130322_notice.html (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+01:25:56	Warning: 	Retry after error -5 (Unable to get server's address: �˷��� ȣ��Ʈ�� �����ϴ�. ) at link www.duoback.co.krupload/Popup/cats%ec%a3%bc%ec%a4%92.jpg (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+01:25:56	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.duoback.co.krupload/Popup/ddddd(0).jpg (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+01:26:01	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/cust/?p_url=cust_2 (from https://www.duoback.co.kr/board/?id=faq&page=20)
+01:26:01	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/cust/?p_url=cust_4_3&focus=quest_list (from https://www.duoback.co.kr/board/?id=faq&page=20)
+01:26:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206222844
+01:28:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206222915
+02:02:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 8065457 got 2301952): ai.esmplus.com/ablue0/ablue/curble2019/4.gif
+02:14:12	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223000
+02:16:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223004
+02:25:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223023
+02:28:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223035
+02:28:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223037
+02:30:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223055
+02:30:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223057
+02:30:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223119
+02:50:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223209
+03:08:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 2358479 got 2179072): gi.esmplus.com/bros0409/GANSO_LED_무드등_알람시계_상세.jpg
+03:10:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 4357158 got 2547712): gi.esmplus.com/bros0409/HANDS3 SPLIT 최종/190909_HANDS3-SPLIT_detail_03.gif
+03:14:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 2820477 got 2260992): gi.esmplus.com/bros0409/HANDS3 SPLIT 최종/190909_HANDS3-SPLIT_detail_06.jpg
+03:17:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 4087229 got 2916352): gi.esmplus.com/bros0409/HANDS4/HANDS4.jpg
+03:20:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 2497681 got 2383872): gi.esmplus.com/bros0409/파우트 EYES8/쿠팡향_상세페이지/5.jpg
+03:25:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 3863809 got 2342912): gi.esmplus.com/bros0409/파우트 EYES5/190402_EYES5.jpg
+03:25:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 8217431 got 2383872): gi.esmplus.com/bros0409/정밀드라이버/191115_간소_정밀드라이버_상세페이지_final.jpg
+03:27:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 4421059 got 2342912): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/1.jpg
+03:31:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 7609514 got 2301952): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-3.png
+03:32:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 5922287 got 2301952): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-4.png
+03:33:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 6220641 got 2342912): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/4.jpg
+03:33:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 7352654 got 2383872): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/3.jpg
+03:38:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 6713252 got 2629632): gi.esmplus.com/bros0409/파우트 EYES7/190402_EYES7.jpg
+03:39:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 7562808 got 2301952): gi.esmplus.com/bros0409/간소 센서조명/GANSO_센서조명등_full.jpg
+03:44:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 3325055 got 2301952): gi.esmplus.com/bros0409/파우트 EYES1/170830_eyes1-상세페이지_최종_ol1.jpg
+03:45:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 4859725 got 2424832): gi.esmplus.com/bros0409/HANDS3/190903HANDS3.jpg
+03:46:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 4040335 got 2506752): gi.esmplus.com/bros0409/181207_NOSE2_상세페이지_final_KC마크.jpg
+03:46:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 5489593 got 2875392): gi.esmplus.com/bros0409/GANSO 포터블온풍기상세페이지.jpg
+06:32:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 4166782 got 2342912): ai.esmplus.com/ablue0/ablue/curble_kids/07-1.gif
+06:32:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 3671482 got 2629632): ai.esmplus.com/ablue0/ablue/curble_kids/06-1.gif
+06:34:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 3256061 got 2424832): ai.esmplus.com/ablue0/ablue/curble_kids/09-1.gif
+06:38:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 3860371 got 2260992): ai.esmplus.com/ablue0/ablue/curble_kids/11-1.gif
+06:52:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223351
+06:56:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 2676267 got 1628669): www.duoback.co.kr/duo_online/event/event_1/aaaaaaaaaa.jpg
+06:59:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 3380082 got 2506752): gi.esmplus.com/icle7854/2021년/ICLE-PHX004 상세페이지.jpg
+07:01:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 3535903 got 2092029): www.duoback.co.kr/duo_online/event/event_1/JK-853-800.jpg
+07:01:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223406
+07:02:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 6722619 got 2670592): gi.esmplus.com/icle7854/2021년/ICLE-28011 수정본.jpg
+07:02:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220206223412
+07:24:18	Warning: 	Retry after error -4 (Incorrect length (2260992 Bytes, 7617284 expected)) at link gi.esmplus.com/bros0409/탭플러스_NEW/20200305_TAP-PLUS_상세페이지_2.gif (from https://www.duoback.co.kr/goods/view_contents?no=388&zoom=1)
+07:24:21	Warning: 	Retry after error -4 (Incorrect length (6701056 Bytes, 6827908 expected)) at link gi.esmplus.com/bros0409/HANDS3_PRO/190904_HANDS3-Pro.jpg (from https://www.duoback.co.kr/goods/view_contents?no=377&zoom=1)
+07:24:42	Warning: 	Retry after error -4 (Incorrect length (2342912 Bytes, 6152165 expected)) at link ai.esmplus.com/ablue0/ablue/curble_wider/detail_04.gif (from https://www.duoback.co.kr/goods/view_contents?no=535&zoom=1)
+07:25:03	Warning: 	Retry after error -4 (Incorrect length (2383872 Bytes, 4497536 expected)) at link ai.esmplus.com/ablue0/ablue/curble_wider/detail_06.gif (from https://www.duoback.co.kr/goods/view_contents?no=535&zoom=1)
+07:25:39	Warning: 	Retry after error -4 (Incorrect length (2342912 Bytes, 6590547 expected)) at link ai.esmplus.com/ablue0/ablue/curble_wider/detail_13.gif (from https://www.duoback.co.kr/goods/view_contents?no=535&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/01.jpg (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/02.jpg (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/03.gif (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/04.jpg (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/05.gif (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/06.jpg (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/07.gif (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/08.jpg (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Error: 	"Not Found" (404) at link comiband.cafe24.com/2020re/backcushion/21/09.gif (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:44	Warning: 	Retry after error -4 (Incorrect length (3919075 Bytes, 4035569 expected)) at link comiband.cafe24.com/2020re/backcushion/21/12.gif (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 6152165 got 4603904): ai.esmplus.com/ablue0/ablue/curble_wider/detail_04.gif
+07:30:47	Warning: 	Retry after error -4 (Incorrect length (2048777 Bytes, 2208052 expected)) at link comiband.cafe24.com/2020re/backcushion/21/16.gif (from https://www.duoback.co.kr/goods/view_contents?no=516&zoom=1)
+07:30:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 7617284 got 4726784): gi.esmplus.com/bros0409/탭플러스_NEW/20200305_TAP-PLUS_상세페이지_2.gif
+07:30:56	Warning: 	Retry after error -4 (Incorrect length (5054464 Bytes, 9762061 expected)) at link gi.esmplus.com/bros0409/2020NEW_살균기상세/살균기상세_gif 없음.jpg (from https://www.duoback.co.kr/goods/view_contents?no=375&zoom=1)
+07:31:03	Warning: 	Retry after error -4 (Incorrect length (2424832 Bytes, 2899474 expected)) at link gi.esmplus.com/bros0409/간소 돌돌이/1_03.png (from https://www.duoback.co.kr/goods/view_contents?no=374&zoom=1)
+07:31:13	Warning: 	Retry after error -4 (Incorrect length (2383872 Bytes, 2417553 expected)) at link gi.esmplus.com/bros0409/간소 돌돌이/2_02.png (from https://www.duoback.co.kr/goods/view_contents?no=374&zoom=1)
+07:32:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 6590547 got 4808704): ai.esmplus.com/ablue0/ablue/curble_wider/detail_13.gif
+07:34:52	Warning: 	Retry after error -4 (Incorrect length (2989111 Bytes, 3770524 expected)) at link www.barton.co.kr/data/editor/goods/200402/e3a2f293e9c78c06d656728d8bdb889f_155115.jpg (from https://www.duoback.co.kr/goods/view_contents?no=553&zoom=1)
+07:35:14	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/_var/simbol/0.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/notice/default01/board.css)
+07:35:14	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/notice/images/common/th_bg_popup.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/notice/default01/board.css)
+07:35:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012046
+07:35:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012050
+07:35:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012100
+07:35:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012103
+07:35:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012104
+07:35:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012115
+07:35:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012117
+07:36:03	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012137
+07:36:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 9762061 got 7544832): gi.esmplus.com/bros0409/2020NEW_살균기상세/살균기상세_gif 없음.jpg
+07:36:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012156
+07:36:34	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/cyber/images/common/th_bg_popup.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/cyber/default01/board.css)
+07:36:34	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/irboard/images/common/th_bg_popup.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/irboard/default01/board.css)
+07:36:34	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.duoback.co.krupload/Popup/cats%ec%a3%bc%ec%a4%92.jpg (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+07:36:34	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.duoback.co.krupload/Popup/ddddd(0).jpg (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+07:36:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207012236
+07:36:36	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/faq/images/common/th_bg_popup.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/faq/_faq/board.css)
+07:36:39	Error: 	"Not Found" (404) at link https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/manual/images/common/th_bg_popup.gif (from https://www.duoback.co.kr/data/skin/responsive_ver1_default_gl_1/board/manual/default01/board.css)
+07:39:52	Warning: 	Retry after error -4 (Incorrect length (2301952 Bytes, 8065457 expected)) at link ai.esmplus.com/ablue0/ablue/curble2019/4.gif (from https://www.duoback.co.kr/goods/view_contents?no=534&zoom=1)
+07:47:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 8065457 got 5136384): ai.esmplus.com/ablue0/ablue/curble2019/4.gif
+08:08:17	Warning: 	Retry after error -4 (Incorrect length (2179072 Bytes, 2358479 expected)) at link gi.esmplus.com/bros0409/GANSO_LED_무드등_알람시계_상세.jpg (from https://www.duoback.co.kr/goods/view_contents?no=371&zoom=1)
+08:08:17	Warning: 	Retry after error -4 (Incorrect length (2547712 Bytes, 4357158 expected)) at link gi.esmplus.com/bros0409/HANDS3 SPLIT 최종/190909_HANDS3-SPLIT_detail_03.gif (from https://www.duoback.co.kr/goods/view_contents?no=384&zoom=1)
+08:08:45	Warning: 	Retry after error -4 (Incorrect length (2260992 Bytes, 2820477 expected)) at link gi.esmplus.com/bros0409/HANDS3 SPLIT 최종/190909_HANDS3-SPLIT_detail_06.jpg (from https://www.duoback.co.kr/goods/view_contents?no=384&zoom=1)
+08:08:58	Error: 	"Not Found" (404) at link gi.esmplus.com/bros0409/HANDS3 SPLIT 최종/190909_HANDS3-SPLIT_detail_07.jpg (from https://www.duoback.co.kr/goods/view_contents?no=384&zoom=1)
+08:08:58	Warning: 	Retry after error -4 (Incorrect length (2916352 Bytes, 4087229 expected)) at link gi.esmplus.com/bros0409/HANDS4/HANDS4.jpg (from https://www.duoback.co.kr/goods/view_contents?no=383&zoom=1)
+08:09:50	Warning: 	Retry after error -4 (Incorrect length (2383872 Bytes, 2497681 expected)) at link gi.esmplus.com/bros0409/파우트 EYES8/쿠팡향_상세페이지/5.jpg (from https://www.duoback.co.kr/goods/view_contents?no=390&zoom=1)
+08:10:09	Warning: 	Retry after error -4 (Incorrect length (2342912 Bytes, 3863809 expected)) at link gi.esmplus.com/bros0409/파우트 EYES5/190402_EYES5.jpg (from https://www.duoback.co.kr/goods/view_contents?no=389&zoom=1)
+08:10:13	Warning: 	Retry after error -4 (Incorrect length (2383872 Bytes, 8217431 expected)) at link gi.esmplus.com/bros0409/정밀드라이버/191115_간소_정밀드라이버_상세페이지_final.jpg (from https://www.duoback.co.kr/goods/view_contents?no=372&zoom=1)
+08:12:05	Warning: 	Retry after error -4 (Incorrect length (2342912 Bytes, 4421059 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/1.jpg (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:13:04	Warning: 	Retry after error -4 (Incorrect length (2301952 Bytes, 7609514 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-3.png (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:14:14	Warning: 	Retry after error -4 (Incorrect length (2301952 Bytes, 5922287 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-4.png (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:16:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 8217431 got 4767744): gi.esmplus.com/bros0409/정밀드라이버/191115_간소_정밀드라이버_상세페이지_final.jpg
+08:16:38	Warning: 	Retry after error -4 (Incorrect length (2383872 Bytes, 7352654 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/3.jpg (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:17:41	Warning: 	Retry after error -4 (Incorrect length (2342912 Bytes, 6220641 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/4.jpg (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:20:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 7609514 got 4890624): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-3.png
+08:20:02	Warning: 	Retry after error -4 (Incorrect length (2629632 Bytes, 6713252 expected)) at link gi.esmplus.com/bros0409/파우트 EYES7/190402_EYES7.jpg (from https://www.duoback.co.kr/goods/view_contents?no=378&zoom=1)
+08:20:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 5922287 got 4685824): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-4.png
+08:20:39	Warning: 	Retry after error -4 (Incorrect length (2301952 Bytes, 7562808 expected)) at link gi.esmplus.com/bros0409/간소 센서조명/GANSO_센서조명등_full.jpg (from https://www.duoback.co.kr/goods/view_contents?no=393&zoom=1)
+08:23:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 7352654 got 4808704): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/3.jpg
+08:23:09	Warning: 	Retry after error -4 (Incorrect length (2301952 Bytes, 3325055 expected)) at link gi.esmplus.com/bros0409/파우트 EYES1/170830_eyes1-상세페이지_최종_ol1.jpg (from https://www.duoback.co.kr/goods/view_contents?no=395&zoom=1)
+08:25:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 6220641 got 5136384): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/4.jpg
+08:25:11	Warning: 	Retry after error -4 (Incorrect length (2875392 Bytes, 5489593 expected)) at link gi.esmplus.com/bros0409/GANSO 포터블온풍기상세페이지.jpg (from https://www.duoback.co.kr/goods/view_contents?no=373&zoom=1)
+08:25:55	Warning: 	Retry after error -4 (Incorrect length (2424832 Bytes, 4859725 expected)) at link gi.esmplus.com/bros0409/HANDS3/190903HANDS3.jpg (from https://www.duoback.co.kr/goods/view_contents?no=381&zoom=1)
+08:27:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 7562808 got 4767744): gi.esmplus.com/bros0409/간소 센서조명/GANSO_센서조명등_full.jpg
+08:27:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 6713252 got 5324800): gi.esmplus.com/bros0409/파우트 EYES7/190402_EYES7.jpg
+08:27:17	Warning: 	Retry after error -4 (Incorrect length (2506752 Bytes, 4040335 expected)) at link gi.esmplus.com/bros0409/181207_NOSE2_상세페이지_final_KC마크.jpg (from https://www.duoback.co.kr/goods/view_contents?no=380&zoom=1)
+08:27:17	Warning: 	Retry after error -4 (Incorrect length (2629632 Bytes, 3671482 expected)) at link ai.esmplus.com/ablue0/ablue/curble_kids/06-1.gif (from https://www.duoback.co.kr/goods/view_contents?no=536&zoom=1)
+08:30:06	Warning: 	Retry after error -4 (Incorrect length (2342912 Bytes, 4166782 expected)) at link ai.esmplus.com/ablue0/ablue/curble_kids/07-1.gif (from https://www.duoback.co.kr/goods/view_contents?no=536&zoom=1)
+08:31:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 5489593 got 5136384): gi.esmplus.com/bros0409/GANSO 포터블온풍기상세페이지.jpg
+08:31:16	Warning: 	Retry after error -4 (Incorrect length (2424832 Bytes, 3256061 expected)) at link ai.esmplus.com/ablue0/ablue/curble_kids/09-1.gif (from https://www.duoback.co.kr/goods/view_contents?no=536&zoom=1)
+08:31:25	Warning: 	Retry after error -4 (Incorrect length (2260992 Bytes, 3860371 expected)) at link ai.esmplus.com/ablue0/ablue/curble_kids/11-1.gif (from https://www.duoback.co.kr/goods/view_contents?no=536&zoom=1)
+08:32:27	Warning: 	Retry after error -4 (Incorrect length (1628669 Bytes, 2676267 expected)) at link www.duoback.co.kr/duo_online/event/event_1/aaaaaaaaaa.jpg (from https://www.duoback.co.kr/goods/view_contents?no=528&zoom=1)
+08:33:31	Warning: 	Retry after error -4 (Incorrect length (2506752 Bytes, 3380082 expected)) at link gi.esmplus.com/icle7854/2021년/ICLE-PHX004 상세페이지.jpg (from https://www.duoback.co.kr/goods/view_contents?no=670&zoom=1)
+08:35:00	Warning: 	Retry after error -4 (Incorrect length (2670592 Bytes, 6722619 expected)) at link gi.esmplus.com/icle7854/2021년/ICLE-28011 수정본.jpg (from https://www.duoback.co.kr/goods/view_contents?no=675&zoom=1)
+08:35:17	Warning: 	Retry after error -4 (Incorrect length (2092029 Bytes, 3535903 expected)) at link www.duoback.co.kr/duo_online/event/event_1/JK-853-800.jpg (from https://www.duoback.co.kr/goods/view_contents?no=529&zoom=1)
+08:37:37	Error: 	"Misdirected Request" (421) at link https://www.duoback.co.kr:443/duo_online/product/parts/parts_notice.jpg (from https://www.duoback.co.kr/goods/view_contents?no=448&zoom=1)
+08:37:37	Warning: 	Retry after error -4 (Incorrect length (4726784 Bytes, 7617284 expected)) at link gi.esmplus.com/bros0409/탭플러스_NEW/20200305_TAP-PLUS_상세페이지_2.gif (from https://www.duoback.co.kr/goods/view_contents?no=388&zoom=1)
+08:37:40	Warning: 	Retry after error -4 (Incorrect length (4603904 Bytes, 6152165 expected)) at link ai.esmplus.com/ablue0/ablue/curble_wider/detail_04.gif (from https://www.duoback.co.kr/goods/view_contents?no=535&zoom=1)
+08:39:09	Warning: 	Retry after error -4 (Incorrect length (4808704 Bytes, 6590547 expected)) at link ai.esmplus.com/ablue0/ablue/curble_wider/detail_13.gif (from https://www.duoback.co.kr/goods/view_contents?no=535&zoom=1)
+08:41:51	Error: 	"Incorrect length (7544832 Bytes, 9762061 expected)" (-4) after 2 retries at link gi.esmplus.com/bros0409/2020NEW_살균기상세/살균기상세_gif 없음.jpg (from https://www.duoback.co.kr/goods/view_contents?no=375&zoom=1)
+08:41:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207073243
+08:42:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207073245
+08:42:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207073306
+08:42:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 6722619 got 5365760): gi.esmplus.com/icle7854/2021년/ICLE-28011 수정본.jpg
+08:44:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 7617284 got 7315456): gi.esmplus.com/bros0409/탭플러스_NEW/20200305_TAP-PLUS_상세페이지_2.gif
+08:44:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.duoback.co.krupload/Popup/cats%ec%a3%bc%ec%a4%92.jpg (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+08:44:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.duoback.co.krupload/Popup/ddddd(0).jpg (from https://www.duoback.co.kr/board/?id=irboard&page=20)
+08:44:29	Warning: 	Retry after error -4 (Incorrect length (5136384 Bytes, 8065457 expected)) at link ai.esmplus.com/ablue0/ablue/curble2019/4.gif (from https://www.duoback.co.kr/goods/view_contents?no=534&zoom=1)
+08:44:29	Error: 	"Misdirected Request" (421) at link https://www.duoback.co.kr:443/duo_online/new_lima/LI-04LA-CW/LI-04LA-CW_06.jpg (from https://www.duoback.co.kr/goods/view_contents?no=262&zoom=1)
+08:44:29	Warning: 	Retry after error -4 (Incorrect length (4767744 Bytes, 8217431 expected)) at link gi.esmplus.com/bros0409/정밀드라이버/191115_간소_정밀드라이버_상세페이지_final.jpg (from https://www.duoback.co.kr/goods/view_contents?no=372&zoom=1)
+08:44:29	Warning: 	Retry after error -4 (Incorrect length (4890624 Bytes, 7609514 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-3.png (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:44:33	Warning: 	Retry after error -4 (Incorrect length (4685824 Bytes, 5922287 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-4.png (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:47:53	Warning: 	Retry after error -4 (Incorrect length (4808704 Bytes, 7352654 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/3.jpg (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:50:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 8065457 got 7233536): ai.esmplus.com/ablue0/ablue/curble2019/4.gif
+08:50:09	Warning: 	Retry after error -4 (Incorrect length (5136384 Bytes, 6220641 expected)) at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/4.jpg (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:51:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 7609514 got 7315456): gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-3.png
+08:51:01	Warning: 	Retry after error -4 (Incorrect length (5324800 Bytes, 6713252 expected)) at link gi.esmplus.com/bros0409/파우트 EYES7/190402_EYES7.jpg (from https://www.duoback.co.kr/goods/view_contents?no=378&zoom=1)
+08:52:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 8217431 got 7626752): gi.esmplus.com/bros0409/정밀드라이버/191115_간소_정밀드라이버_상세페이지_final.jpg
+08:52:11	Warning: 	Retry after error -4 (Incorrect length (4767744 Bytes, 7562808 expected)) at link gi.esmplus.com/bros0409/간소 센서조명/GANSO_센서조명등_full.jpg (from https://www.duoback.co.kr/goods/view_contents?no=393&zoom=1)
+08:53:04	Warning: 	Retry after error -4 (Incorrect length (5136384 Bytes, 5489593 expected)) at link gi.esmplus.com/bros0409/GANSO 포터블온풍기상세페이지.jpg (from https://www.duoback.co.kr/goods/view_contents?no=373&zoom=1)
+08:54:01	Warning: 	Retry after error -4 (Incorrect length (5365760 Bytes, 6722619 expected)) at link gi.esmplus.com/icle7854/2021년/ICLE-28011 수정본.jpg (from https://www.duoback.co.kr/goods/view_contents?no=675&zoom=1)
+08:54:43	Error: 	"Incorrect length (7315456 Bytes, 7617284 expected)" (-4) after 2 retries at link gi.esmplus.com/bros0409/탭플러스_NEW/20200305_TAP-PLUS_상세페이지_2.gif (from https://www.duoback.co.kr/goods/view_contents?no=388&zoom=1)
+08:54:48	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207083847
+08:54:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207083849
+08:54:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207083850
+08:55:04	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207084100
+08:58:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 7562808 got 7192576): gi.esmplus.com/bros0409/간소 센서조명/GANSO_센서조명등_full.jpg
+08:58:00	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.duoback.co.kr/link/css?k=quickdesign&v=20220207084101
+08:58:08	Error: 	"Incorrect length (7233536 Bytes, 8065457 expected)" (-4) after 2 retries at link ai.esmplus.com/ablue0/ablue/curble2019/4.gif (from https://www.duoback.co.kr/goods/view_contents?no=534&zoom=1)
+08:58:08	Error: 	"Incorrect length (7626752 Bytes, 8217431 expected)" (-4) after 2 retries at link gi.esmplus.com/bros0409/정밀드라이버/191115_간소_정밀드라이버_상세페이지_final.jpg (from https://www.duoback.co.kr/goods/view_contents?no=372&zoom=1)
+08:58:08	Error: 	"Incorrect length (7315456 Bytes, 7609514 expected)" (-4) after 2 retries at link gi.esmplus.com/bros0409/파우트 EYES3 ANGLE/2-3.png (from https://www.duoback.co.kr/goods/view_contents?no=392&zoom=1)
+08:58:08	Error: 	"Incorrect length (7192576 Bytes, 7562808 expected)" (-4) after 2 retries at link gi.esmplus.com/bros0409/간소 센서조명/GANSO_센서조명등_full.jpg (from https://www.duoback.co.kr/goods/view_contents?no=393&zoom=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 hours 18 minutes 6 seconds : 8005 links scanned, 7878 files written (1565669412 bytes overall), 7860 files updated [1494669228 bytes received at 36736 bytes/sec], 185557779 bytes transferred using HTTP compression in 1383 files, ratio 36%, 4.1 requests per connection
+(63 errors, 211 warnings, 0 messages)
