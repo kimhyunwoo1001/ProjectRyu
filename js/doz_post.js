@@ -1,0 +1,2 @@
+var doz_post  = {
+};

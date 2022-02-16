@@ -1,0 +1,16 @@
+<듀오백 관리자페이지 product>
+대쉬보드// dashboard.html
+사용자관리- 사용자목록//memberList.html
+사용자관리- 메일발송//memberMail.html
+사용자관리- 메세지보내기//memberSend.html
+쇼핑관리- 상품관리 // shoppingManagement.html
+쇼핑관리- 문의관리 //shoppingAnswer.html
+쇼핑관리- 주문취소 // shoppingCancel.html
+쇼핑관리- 쿠폰관리 //shoppingCoupon.html
+쇼핑관리- 교환관리 //shoppingExchange.html
+쇼핑관리- 포인트관리 //shoppingMileage.html
+쇼핑관리- 주문관리 //shoppingOrder.html
+쇼핑관리- 반품관리 //shoppingReturn.html
+쇼핑관리- 구매평관리 //shoppingReview.html
+통계- 기간별분석 //statAnalytics.html
+통계- 방문자수 // statVisitor.html
