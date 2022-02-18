@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Room</title>
+    <link rel="stylesheet" href="./room.css">
+    <script src="./room.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+        $(function () {
+            $("#grdot1").click(function () {
+
+                $("#speech-bubble").css('display', 'block');
+                $("#speech-bubble1").css('display', 'none');
+
+            });
+            $("#grdot2").click(function () {
+
+                $("#speech-bubble1").css('display', 'block');
+                $("#speech-bubble").css('display', 'none');
+
+            })
+            $(".duo_imgr1").mouseleave(function () {
+
+                $("#speech-bubble1").css('display', 'none');
+                $("#speech-bubble").css('display', 'none');
+            })
+
+        });
+    </script>
+
+
+</head>
+
+<body>
+
+    <h3>Show Room</h3>
+    <div class="showroom">
+        <div class="duoroom1">
+            <div class="duo_r1 ">
+                <div class="duo_imgr1 " id="duo_imgr1"><img src="./roomst_1.png" alt=""></div>
+                <div class="duo_Btn1">
+                    <div class="grdot1 dotBtn" id="grdot1"><img src="./greendot.png" alt=""></div>
+                    <div class="grdot2 dotBtn" id="grdot2"><img src="./greendot.png" alt=""></div>
+
+
+                    <div class="speech-bubble sb" id="speech-bubble">
+                        <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                        <div class="bool">
+                            <p>DUOBACK CHAIR
+                                <span style="font-size: 1px;">₩</span>240000
+                            </p>
+                        </div>
+                        </a>
+                    </div>
+                    <div class="speech-bubble1 sb" id="speech-bubble1">
+                        <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                        <div class="bool">
+                            <p>DUOBACK CHAIR
+                                <span style="font-size: 1px;">₩</span>260000
+                            </p>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <script>
+                $(function () {
+                    $("#grdot3").click(function () {
+
+                        $("#speech-bubble2").css('display', 'block');
+                        $("#speech-bubble3").css('display', 'none');
+
+                    });
+                    $("#grdot4").click(function () {
+
+                        $("#speech-bubble3").css('display', 'block');
+                        $("#speech-bubble2").css('display', 'none');
+
+                    });
+                    $(".duo_imgr2").mouseleave(function () {
+
+                        $("#speech-bubble3").css('display', 'none');
+                        $("#speech-bubble2").css('display', 'none');
+                    });
+
+                });
+            </script>
+            <div class="duo_r2 ">
+                <div class="duo_imgr2"><img src="./roomst_2.png" alt=""></div>
+                <div class="duo_Btn2">
+                    <div class="grdot3 dotBtn" id="grdot3"><img src="./greendot.png" alt=""></div>
+                    <div class="grdot4 dotBtn" id="grdot4"><img src="./greendot.png" alt=""></div>
+                    <div class="speech-bubble2 sb" id="speech-bubble2">
+                        <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                        <div class="bool">
+                            <p>DUOBACK CHAIR
+                                <span style="font-size: 1px;">₩</span>55000
+                            </p>
+                        </div>
+                        </a>
+                    </div>
+                    <div class="speech-bubble3 sb" id="speech-bubble3">
+                        <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                        <div class="bool">
+                            <p>DUOBACK CHAIR
+                                <span style="font-size: 1px;">₩</span>34000
+                            </p>
+                        </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+        <script>
+            $(function () {
+                $("#grdot5").click(function () {
+
+                    $("#speech-bubble4").css('display', 'block');
+                    $("#speech-bubble5").css('display', 'none');
+                    $("#speech-bubble6").css('display', 'none');
+                    $("#speech-bubble7").css('display', 'none');
+
+                });
+                $("#grdot6").click(function () {
+
+                    $("#speech-bubble5").css('display', 'block');
+                    $("#speech-bubble6").css('display', 'none');
+                    $("#speech-bubble7").css('display', 'none');
+                    $("#speech-bubble4").css('display', 'none');
+
+                });
+
+                $("#grdot7").click(function () {
+
+                    $("#speech-bubble6").css('display', 'block');
+                    $("#speech-bubble7").css('display', 'none');
+                    $("#speech-bubble4").css('display', 'none');
+                    $("#speech-bubble5").css('display', 'none');
+
+                });
+
+                $("#grdot8").click(function () {
+
+                    $("#speech-bubble7").css('display', 'block');
+                    $("#speech-bubble4").css('display', 'none');
+                    $("#speech-bubble5").css('display', 'none');
+                    $("#speech-bubble6").css('display', 'none');
+
+                });
+                $(".duo_imgr3").mouseleave(function () {
+
+                    $("#speech-bubble4").css('display', 'none');
+                    $("#speech-bubble5").css('display', 'none');
+                    $("#speech-bubble6").css('display', 'none');
+                    $("#speech-bubble7").css('display', 'none');
+
+                })
+
+
+            });
+        </script>
+        <div class="duo_room2">
+            <div class="duo_imgr3"><img src="./roomst_3.jpeg" alt=""></div>
+            <div class="duo_Btn3">
+                <div class="grdot5 dotBtn" id="grdot5"><img src="./greendot.png" alt=""></div>
+                <div class="grdot6 dotBtn" id="grdot6"><img src="./greendot.png" alt=""></div>
+                <div class="grdot7 dotBtn" id="grdot7"><img src="./greendot.png" alt=""></div>
+                <div class="grdot8 dotBtn" id="grdot8"><img src="./greendot.png" alt=""></div>
+            </div>
+            <div class="speech-bubble4 sb" id="speech-bubble4">
+                <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                <div class="bool">
+                    <p>DUOBACK CHAIR4
+                        <span style="font-size: 1px;">₩</span>34000
+                    </p>
+                </div>
+                </a>
+            </div>
+            <div class="speech-bubble5 sb" id="speech-bubble5">
+                <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                <div class="bool">
+                    <p>DUOBACK CHAIR5
+                        <span style="font-size: 1px;">₩</span>34000
+                    </p>
+                </div>
+                </a>
+            </div>
+            <div class="speech-bubble6 sb" id="speech-bubble6">
+                <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                <div class="bool">
+                    <p>DUOBACK CHAIR6
+                        <span style="font-size: 1px;">₩</span>34000
+                    </p>
+                </div>
+                </a>
+            </div>
+            <div class="speech-bubble7 sb" id="speech-bubble7">
+                <div class="bubble"><a href="#"><img src="./roomst_1.png" alt=""></div>
+
+                <div class="bool">
+                    <p>DUOBACK CHAIR7
+                        <span style="font-size: 1px;">₩</span>34000
+                    </p>
+                </div>
+                </a>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
