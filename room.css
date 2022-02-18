@@ -93,7 +93,7 @@ div{
     margin: 0 auto;
     width: 1024px;
     padding-top: 5%;    
-    width: 90%;
+    width: 80%;
 }
 
 .showroom > .duo_room2 > .duo_Btn3{    
@@ -101,7 +101,7 @@ div{
     margin: 0 auto;                    
     left: 5%;
     height: 94%;
-    width: 90%;
+    width: 80%;
     top: 5%;
     opacity: 0; 
     transition: opacity 0.4s linear;
@@ -282,13 +282,5 @@ div{
 .sb > a:visited{ color: black;}
 .sb > a {text-decoration: none;}
 
-@media screen and (min-width : 375px ){
-.showroom{
-    width: 100%;
-    margin: 0 auto;
-}
 
-
-
-}
 
