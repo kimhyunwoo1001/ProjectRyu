@@ -36,7 +36,7 @@ window.Firstmall.Config = {"Environment":{"MobileMode":true,"SetMode":null,"Lang
 	
 	<!-- SEO 설정이 있을경우 -->
 
-	<meta property="og:url" content="https://www.duoback.co.kr/mypage/myqna_catalog" />
+	<meta property="og:url" content="https://www.duoback.co.kr./mypage_qna.html" />
 <meta property="og:site_name" content="듀오백" />
 <meta property="og:title" content="듀오백" />
 
@@ -106,7 +106,7 @@ window.Firstmall.Config = {"Environment":{"MobileMode":true,"SetMode":null,"Lang
 
 
 <script>
-var REQURL = '/mypage/myqna_catalog';
+var REQURL = './mypage_qna.html';
 var WINDOWWIDTH = window.innerWidth;
 </script>
 
@@ -1506,7 +1506,7 @@ $(function(){
 			<input type="hidden" name="mode" id="mode" value="board_write">
 			<input type="hidden" name="board_id" id="board_id" value="mbqna">
 			<input type="hidden" name="reply" id="reply" value="">
-			<input type="hidden" name="returnurl" id="returnurl" value="/mypage/myqna_catalog?">
+			<input type="hidden" name="returnurl" id="returnurl" value="./mypage_qna.html?">
 			<input type="hidden" name="popup" value="">
 			<input type="hidden" name="iframe" value="">
 			<input type="hidden" name="goods_seq" value="0">
@@ -1718,7 +1718,7 @@ $(function(){
 		<div class="board_detail_btns2">
 
 			<button type="button" class="data_save_btn btn_resp size_c color2">저장</button>
-			<button type="button" class="btn_resp size_c" onclick="document.location.href='/mypage/myqna_catalog?';">취소</button>
+			<button type="button" class="btn_resp size_c" onclick="document.location.href='./mypage_qna.html?';">취소</button>
 		</div>
 
 		</form>
@@ -1733,7 +1733,7 @@ $(function(){
 //<![CDATA[
 var board_id = 'mbqna';
 var board_seq = '';
-var boardlistsurl = '/mypage/myqna_catalog?';
+var boardlistsurl = './mypage_qna.html?';
 var boardwriteurl = '/mypage/myqna_write?';
 var boardviewurl = '/mypage/myqna_view?seq=';
 var boardmodifyurl = '/mypage/myqna_write?&seq=';
@@ -1781,7 +1781,7 @@ $(document).ready(function() {
 	});
 
 	$("#backtype1").click(function() {
-		$("#returnurl").val('/mypage/myqna_catalog?');
+		$("#returnurl").val('./mypage_qna.html?');
 	});
 
 	// 게시글저장
@@ -1918,7 +1918,7 @@ function readfilelistNew(attachments){
 				<!--li><a href="../goods/catalog33b6.html">D포인트존</a></li-->
 <!--				<li><a href="javascript:alert('준비중입니다');">D포인트존 (준비중)</a></li>-->
 			</ul>
-			<h3 class="title2"><a href="/mypage/myqna_catalog" designelement="text" textindex="14" texttemplatepath="cmVzcG9uc2l2ZV92ZXIxX2RlZmF1bHRfZ2xfMS9teXBhZ2UvbXlwYWdlX2xuYi5odG1s">나의 활동</a></h3>
+			<h3 class="title2"><a href="./mypage_qna.html" designelement="text" textindex="14" texttemplatepath="cmVzcG9uc2l2ZV92ZXIxX2RlZmF1bHRfZ2xfMS9teXBhZ2UvbXlwYWdlX2xuYi5odG1s">나의 활동</a></h3>
 			<ul class="lnb_sub">
 				<li><a href="./mypage_review.html" designelement="text" textindex="15" texttemplatepath="cmVzcG9uc2l2ZV92ZXIxX2RlZmF1bHRfZ2xfMS9teXBhZ2UvbXlwYWdlX2xuYi5odG1s">나의 상품리뷰</a></li>
 				<li><a href="./mypage_goodsqna.html" designelement="text" textindex="17" texttemplatepath="cmVzcG9uc2l2ZV92ZXIxX2RlZmF1bHRfZ2xfMS9teXBhZ2UvbXlwYWdlX2xuYi5odG1s">나의 상품문의</a></li>

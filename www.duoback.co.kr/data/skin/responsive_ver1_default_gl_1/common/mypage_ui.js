@@ -69,7 +69,7 @@ $(document).ready(function() {
 						matchUrlMenu = true;
 					}
 				}
-				if(mypageLnbLink.indexOf('/mypage/myqna_catalog')>-1){
+				if(mypageLnbLink.indexOf('./mypage_qna.html')>-1){
 					if(REQURL.indexOf('/mypage/myqna_view')>-1){
 						matchUrlMenu = true;
 					}
