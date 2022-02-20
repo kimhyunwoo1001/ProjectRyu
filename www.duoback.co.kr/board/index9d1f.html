@@ -1371,12 +1371,12 @@ var isperm_write = '';
 
 <div class="ab_tabs">
 	<ul class="ab_clear">
-		<li  class="on" : "" ><a href="javascript:search('');">전체</a></li>
-		<li ><a href="javascript:search('A/S관련');">A/S관련</a></li>
-		<li ><a href="javascript:search('교체관련');">교체관련</a></li>
-		<li ><a href="javascript:search('제품관련');">제품관련</a></li>
-		<li ><a href="javascript:search('홈페이지');">홈페이지</a></li>
-		<li ><a href="javascript:search('D포인트');">D포인트</a></li>
+		<li class="on" :="" ""=""><a href="./index4fcb.html">전체</a></li>
+		<li><a href="./cs_faq_as.html">A/S관련</a></li>
+		<li><a href="./cs_faq_exchange1.html">교체관련</a></li>
+		<li><a href="./cs_faq_goods.html">제품관련</a></li>
+		<li><a href="./cs_faq_homepage.html">홈페이지</a></li>
+		<li><a href="./cs_faq_dpoint.html">D포인트</a></li>
 	</ul>
 </div>
 
@@ -2505,6 +2505,7 @@ var isperm_write = '';
 <script>
 	$(".faq_new .question .boad_faqview_btn").on("click",function(){
 		$(this).parent().parent(".question").toggleClass("on");
+		$(this).parent().parent().parent().children(".answer").after().toggle('::before');
 	});
 
 	var search = function(var1){		
