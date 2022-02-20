@@ -1903,8 +1903,6 @@ var jointype = 'nvmember';
 var apple_authurl	= '';
 </script>
 <script type="text/javascript">
-$(document).ready(function() {
-	// 약관 전체동의
 	$('#pilsuAgreeAll > input[type=checkbox]').on('change', function() {
 		if ( $(this).prop('checked') ) {
 			$(this).closest('.mem_agree_area').find('input[type=checkbox].pilsu').attr('checked', 'checked');
@@ -1922,6 +1920,9 @@ $(document).ready(function() {
 			$(this).closest('li').removeClass('end');
 		}
 	});
+$(document).ready(function() {
+	// 약관 전체동의
+	
 
 
 	$('#btn_submit').click(function() {
@@ -1938,6 +1939,7 @@ $(document).ready(function() {
 
 			joinwindowopen();
 	});
+
 });
 </script>
 		<!-- ================= 파트 페이지들 :: END. ================= -->

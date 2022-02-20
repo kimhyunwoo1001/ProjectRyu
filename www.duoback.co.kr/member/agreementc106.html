@@ -2331,6 +2331,47 @@ E. 사용자는 쿠키에 대해서 사용여부를 선택할 수 있습니다.
 	});
 </script>
 
+<script type="text/javascript">
+	$('#pilsuAgreeAll > input[type=checkbox]').on('change', function() {
+		if ( $(this).prop('checked') ) {
+			$(this).closest('.mem_agree_area').find('input[type=checkbox].pilsu').attr('checked', 'checked');
+			$(this).closest('.mem_agree_area').find('input[type=checkbox].pilsu').closest('li').addClass('end');
+		} else {
+			$(this).closest('.mem_agree_area').find('input[type=checkbox].pilsu').removeAttr('checked');
+			$(this).closest('.mem_agree_area').find('input[type=checkbox].pilsu').closest('li').removeClass('end');
+		}
+	});
+	// 개별 약관 선택시
+	$('#agreeList input[type=checkbox]').on('change', function() {
+		if ( $(this).prop('checked') ) {
+			$(this).closest('li').addClass('end');
+		} else {
+			$(this).closest('li').removeClass('end');
+		}
+	});
+$(document).ready(function() {
+	// 약관 전체동의
+	
+
+
+	$('#btn_submit').click(function() {
+			if(!$("input[name='agree']").is(":checked")){
+				//이용약관에 동의하셔야합니다.
+				alert(getAlert('mb001'));
+				return false;
+			}
+			if(!$("input[name='agree2']").is(":checked")){
+				//개인정보처리방침에 동의하셔야합니다.
+				alert(getAlert('mb002'));
+				return false;
+			}
+
+			joinwindowopen();
+	});
+
+});
+</script>
+
 <script>
 	function getBiginUserBasic() {
 		try {
