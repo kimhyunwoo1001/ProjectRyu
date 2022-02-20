@@ -1,26 +1,31 @@
 
-h3{
-    font-size: 25px;
-    text-align: center;
-    font-weight: 800;
-    line-height: 1em;
-    display: block;
-    
-}
 
-img{
+
+.duo_imgr1 > img{
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 10%;
 }
-body{
-    box-sizing: border-box;
+
+.duo_imgr2 > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10%;
 }
 
-div{
-    display: block;
+
+.duo_imgr3 > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10%;
 }
+
+
+
+
 
 
 .showroom{    
@@ -281,6 +286,136 @@ div{
 .sb > a:focus{ color: black;}
 .sb > a:visited{ color: black;}
 .sb > a {text-decoration: none;}
+
+
+@media screen and (min-width : 1500px){
+
+.showroom{
+    display: flex;
+    width: 100%;
+    height: 650px;
+    
+}
+
+.duoroom1{
+    display: block;
+    width: 45%;
+}
+
+.duo_room2{    
+    display: block;
+    width: 60%;
+}
+
+.duo_r1{    
+    padding-top: 5%;
+    padding-left: 10px;
+}
+
+.grdot1{ position: absolute;left: 20%; top: 53%; }
+
+.speech-bubble{
+    display: none;
+    position: absolute;
+    text-align: center;    
+    width: 150px;    
+    height: 100px;	    
+    font-weight: bold; 
+    top: 60%;
+    left: 25%;    
+    border: rgb(29, 154, 141) 3px solid ;
+    border-radius: 15%;    
+    box-sizing: border-box;
+    
+    
+}
+
+.grdot2{
+    position: absolute; top : 43%;
+}
+
+.speech-bubble1{
+    top: 25%;
+    right: 15%;
+}
+
+.duo_r2{
+    position: absolute;
+    left: 52%;
+    top: 10%;
+}
+
+.duo_Btn2{
+    position: absolute;
+    left: 24%;
+}
+
+.duo_Btn2 > #grdot4{
+    padding-left: 30%;
+    
+}
+
+
+.speech-bubble3{
+    top: 15%;
+}
+
+.duo_Btn3{
+    
+   padding-left: 10%;
+   box-sizing: content-box;
+   position: absolute; 
+}
+.grdot5 {
+    position: absolute;
+}
+
+.grdot5 { 
+    position: absolute;
+    bottom: 30%;
+    left: 18%;
+}
+
+.speech-bubble4{
+    left: 10px;
+    bottom: 80px;
+}
+
+.grdot6 { 
+    position: absolute;
+    bottom: 43%;
+}
+
+.speech-bubble5{ 
+    left: 17%;
+    top: 34%;
+}
+
+.grdot7 {
+    position: absolute;
+    bottom: 43%;
+}
+
+.speech-bubble6{ 
+    left: 63%;
+    bottom: 26%;
+    
+}
+
+.speech-bubble7{
+    left: 45%;
+    top: 9%;
+}
+
+
+
+}
+
+
+
+
+    
+
 
 
 
